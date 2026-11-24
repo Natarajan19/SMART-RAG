@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+vectorstore/
+vectorstore_db/
+frontend/node_modules/
+frontend/dist/
+.vscode/
